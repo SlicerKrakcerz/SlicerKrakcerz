@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SlicerKrakcerz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 📫 How to reach me DhanySatu1@gmail.com
 
 <!---
